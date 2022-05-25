@@ -21,4 +21,5 @@ b) https://instantusername.com/#/
 10. Any website which can search people with email like facebook, myspace, yelp etc.. 
 11. Exiftool
 12. Paypal, blockchain address search websites like etherscan.io
-13. Apart from the above ones there could be some more hidden tools/websites which can come out in google searches during CTFs.
+13. Duckduckgo search, sometimes pages are indexed in ctf challenges  (eg. observed in SDCTF2022)
+14. Apart from the above ones there could be some more hidden tools/websites which can come out in google searches during CTFs.
