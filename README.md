@@ -23,6 +23,6 @@ b) https://instantusername.com/#/
 12. Paypal, blockchain address search websites like etherscan.io
 13. Duckduckgo search, sometimes pages are indexed in ctf challenges  (eg. observed in SDCTF2022)
 14. Google Earth Desktop App.
-15. Sometimes using mobile phone (for a location's about section) gives better results than using a PC.      (eg. observed in BYUCTF2022)
+15. Sometimes using mobile phone (for a location's about section in google) gives better results than using a PC.      (eg. observed in BYUCTF2022)
 16. Flags can be hidden here in user profiles https://www.mountainproject.com/area/105885134/the-lizards-mouth       (eg. observed in BYUCTF2022)
 17. Apart from the above ones there could be some more hidden tools/websites which can come out in google searches during CTFs.
