@@ -29,4 +29,5 @@ b) https://instantusername.com/#/
 18. Sometimes using mobile phone (for a location's about section in google) gives better results than using a PC.      (eg. observed in BYUCTF2022)
 19. Flags can be hidden here in user profiles https://www.mountainproject.com/area/105885134/the-lizards-mouth       (eg. observed in BYUCTF2022)
 20. https://app.remini.ai/ AI photo blur remover/enhancer tool.
-21. Apart from the above ones there could be some more hidden tools/websites which can come out in google searches during CTFs.
+21. Photo OSINT resource: https://start.me/p/0PgzqO/photo-osint?locale=de
+22. Apart from the above ones there could be some more hidden tools/websites which can come out in google searches during CTFs.
